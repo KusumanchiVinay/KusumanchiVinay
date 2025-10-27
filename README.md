@@ -1,59 +1,27 @@
-# 👋 Hi, I'm Vinay Kusumanchi  
+# 👋 Hey, I'm Vinay Kusumanchi
 
-🎯 **Python | Backend & Automation Developer | AI & ML Enthusiast**  
-💡 Passionate about building impactful AI-driven and full-stack solutions.  
+🚀 **Python | Backend & Automation Developer | AI & ML Enthusiast**
 
----
+I love building things that make life simpler — from smart AI tools to efficient full-stack web apps.  
+Currently, I’m a final-year B.Tech student in **AI & ML at Lovely Professional University**.
 
-## 👨‍💻 About Me  
+💡 I enjoy working across the stack — designing UIs, building APIs, and integrating machine learning models.
 
-I’m a final-year **B.Tech student in Artificial Intelligence & Machine Learning** at **Lovely Professional University**.  
-My goal is to merge **AI, automation, and full-stack development** to create technology that solves real-world problems.
+### ⚙️ Tech Stack
+- **Languages:** Python, JavaScript, Java  
+- **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS  
+- **Backend:** Node.js, Express.js, Firebase, REST APIs  
+- **AI & Data:** TensorFlow, Scikit-learn, Pandas, Power BI  
+- **Databases:** MongoDB, MySQL  
 
-- 🧠 Currently exploring **AI Engineering**, **Backend Automation**, and **Cloud Deployments**
-- 💻 Experienced in building **end-to-end web apps**, **AI assistants**, and **data analytics dashboards**
-- 🌱 Learning advanced **system design**, **MLOps**, and **DevOps practices**
-- 🚀 Open to roles in **Software Development**, **AI/ML Engineering**, and **Data Automation**
+### 🧩 Featured Projects
+- 🧠 **AI Mock Interview Bot** – AI-powered platform for interview simulations  
+- 📈 **Banking Analytics Dashboard** – Data insights with Power BI & DAX  
+- 💊 **PillCheck** – Smart medicine identifier using CNN & OCR  
+- 🌍 **BuddyGo** – Social travel app built with React & Firebase  
 
----
-
-## 🧰 Tech Stack  
-
-**Frontend:** React.js, Next.js, TypeScript, HTML5, CSS3, JavaScript, Tailwind CSS  
-**Backend:** Node.js, Express.js, Firebase, REST APIs  
-**AI & Data:** Python, TensorFlow, Scikit-learn, Pandas, NumPy, Power BI, DAX  
-**Tools:** Git, GitHub, VS Code, Postman, Vercel, Netlify, Power BI  
-**Databases:** MongoDB, MySQL  
-
----
-
-## 🔥 Featured Projects  
-
-- 🧠 **AI Mock Interview Platform** – Built using Next.js, TypeScript & VAPI SDK to simulate interviews.  
-- 📈 **Banking Analytics Dashboard** – Created with Power BI and DAX for interactive data insights.  
-- 🛒 **E-Commerce Web App** – Full-stack lifestyle store built during internship at Allsoft Solutions.  
-- 💊 **PillCheck – Smart Medicine Identifier** – Uses OpenCV, CNN & OCR to detect and identify pills.  
-- 🌍 **BuddyGo – Travel Social App** – Connects travelers for group trips using a dynamic React frontend.
-
----
-
-## 🏆 Certifications  
-
-- Python 101 for Data Science  
-- Python (Basics) – HackerRank  
-- SQL (Basics) – HackerRank  
-- JavaScript & React – Udemy  
-- Data Science Foundations – Scaler  
-
----
-
-## 📫 Let's Connect  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/vinay-kusumanchi)  
+📫 **Let’s Connect:**  
+- LinkedIn: [linkedin.com/in/vinay-kusumanchi](https://www.linkedin.com/in/vinay-kusumanchi)
 - ✉️ Email: **vinaykusumanchi9@gmail.com**  
-- 🌐 Portfolio (Coming Soon)  
-
-> “Code with purpose. Learn with curiosity. Build with impact.”  
-
----
-⭐ **If you like my work, consider following or starring a repo!**
+- 🌐 Portfolio - [Vinay Kusumanchi](https://vinay-kusumanchi.vercel.app)
+> “Code. Learn. Build. Repeat.”
